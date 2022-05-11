@@ -20,7 +20,8 @@ vim
 
 :CocInfo
 
-:CocInstall coc-pyright
+## for python 自动补全
+:CocInstall coc-pyright 
 
 :CocList extensions
 
